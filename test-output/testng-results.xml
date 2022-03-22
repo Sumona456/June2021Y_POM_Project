@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7126" started-at="2022-03-21T21:30:54 CDT" finished-at="2022-03-21T21:31:01 CDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7126" started-at="2022-03-21T21:30:54 CDT" finished-at="2022-03-21T21:31:01 CDT">
+      <class name="test.AddContactTest">
+        <test-method status="PASS" signature="valisUserShouldBeAbleToAddCustomers()[pri:0, instance:test.AddContactTest@55fe41ea]" name="valisUserShouldBeAbleToAddCustomers" duration-ms="7081" started-at="2022-03-21T21:30:54 CDT" finished-at="2022-03-21T21:31:01 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- valisUserShouldBeAbleToAddCustomers -->
+      </class> <!-- test.AddContactTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
